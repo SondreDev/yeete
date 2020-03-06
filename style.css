@@ -1,0 +1,90 @@
+body {
+  background-color: #012634;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: tomato;
+}
+
+p {
+  color: tomato;
+  text-align: center;
+}
+
+.bilde {
+  width: 200px;
+  border-radius: 50%;
+  border-color: tomato;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px
+}
+
+.bilde2 {
+  width: 200px;
+  border-radius: 50%;
+  border-color: tomato;
+  border-width: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px
+}
+
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.yeet1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 50px
+}
+
+.yeet2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.container {
+  position: relative;
+  width: 100%
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #4DD631;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.shrek {
+  width: 200px;
+  border-radius: 50%;
+  border-color: tomato;
+  border-width: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px
+}
